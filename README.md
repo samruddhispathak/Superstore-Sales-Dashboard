@@ -29,7 +29,7 @@ An interactive, multi-sheet Excel Sales Dashboard built on the sample Superstore
 
 # 📈 Key Business Insights
 - **Technology** is the most profitable category (£145,455 profit)
-- **Furniture** has high sales but the lowest profit margin — Tables & Bookcases are loss-making
+- **Furniture** has high sales but the lowest profit margin -- Tables & Bookcases are loss-making
 - **West region** leads in both sales (£725,458) and profit (£108,418)
 - **Standard Class** shipping accounts for 59% of all orders
 - Discounts above 20% consistently result in **negative profit margins**
